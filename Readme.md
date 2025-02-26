@@ -3,7 +3,7 @@ The best budget-friendly hardware options for running LLMs like DeepSeek 7B and 
 - Required hardware specifications for running different model sizes efficiently.
 - A breakdown of CPU, RAM, GPU, and storage requirements.
 - Power consumption details for each suggested setup.
-- Recommendations within your budget range ($500–$2000) for an initial build that can be scaled over time.
+- Recommendations within a budget range ($500–$2000) for an initial build that can be scaled over time.
 
 # Model Size Requirements (VRAM, RAM, Storage) for LLMs
 
